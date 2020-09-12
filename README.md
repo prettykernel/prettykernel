@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api?username=prettykernel&count_private=true&show_icons=true&theme=buefy)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prettykernel&layout=compact)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hunlongyu)
-![](https://github-readme-stats.vercel.app/api?username=Hunlongyu&show_icons=true&count_private=true&line_height=40)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prettykernel)
+![](https://github-readme-stats.vercel.app/api?username=prettykernel&show_icons=true&count_private=true&line_height=40)
