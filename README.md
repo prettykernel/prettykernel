@@ -18,8 +18,6 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api/?username=prettykernel&count_private=true&hide=stars&show_icons=true&theme=buefy)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=prettykernel&layout=compact)
 
-<a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=prettykernel&count_private=true&hide=stars&show_icons=true"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prettykernel"/>
-</a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hunlongyu)
+![Hunlongyu's github stats](https://github-readme-stats.vercel.app/api?username=Hunlongyu&show_icons=true&count_private=true&line_height=40)
 
