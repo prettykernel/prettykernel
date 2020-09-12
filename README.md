@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 -->
 
 ![](https://github-readme-stats.vercel.app/api?username=prettykernel&theme=light)
-
+[![prettykernel's github stats](https://github-readme-stats.vercel.app/api?username=prettykernel)](https://github.com/prettykernel/github-readme-stats)
