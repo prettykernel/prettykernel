@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 
 <a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=prettykernel&count_private=true&show_icons=true&theme=buefy"/>
-</a>
-<a href="#">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prettykernel"/>
 </a>
+
