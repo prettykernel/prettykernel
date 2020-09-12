@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prettykernel)
-![](https://github-readme-stats.vercel.app/api?username=prettykernel&count_private=true&show_icons=true&theme=buefy)
+![](https://github-readme-stats.vercel.app/api?username=prettykernel&count_private=true&show_icons=true&theme=light)
