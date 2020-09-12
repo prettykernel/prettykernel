@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prettykernel&layout=compact)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hunlongyu)
-![Hunlongyu's github stats](https://github-readme-stats.vercel.app/api?username=Hunlongyu&show_icons=true&count_private=true&line_height=40)
+![](https://github-readme-stats.vercel.app/api?username=Hunlongyu&show_icons=true&count_private=true&line_height=40)
