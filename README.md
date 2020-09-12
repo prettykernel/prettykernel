@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prettykernel)
 ![Hunlongyu's github stats](https://github-readme-stats.vercel.app/api?username=Hunlongyu&show_icons=true&count_private=true&line_height=40)
 
-<div style="height:350;width:150">
+<div style="height:495;width:170">
   <img align="center" src="https://github-readme-stats.vercel.app/api/?username=prettykernel&count_private=true&show_icons=true&theme=buefy"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prettykernel"/>
 </div>
