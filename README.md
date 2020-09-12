@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 -->
 
 
-![](https://github-readme-stats.vercel.app/api/?username=prettykernel&count_private=true&show_icons=true&theme=buefy)
+![](https://github-readme-stats.vercel.app/api/?username=prettykernel&count_private=true&hide=stars&show_icons=true&theme=buefy)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=prettykernel&layout=compact)
 
 <a href="#">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=prettykernel&count_private=true&show_icons=true&theme=buefy"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=prettykernel&count_private=true&hide=stars&show_icons=true&theme=buefy"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prettykernel"/>
 </a>
 
