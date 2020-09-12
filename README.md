@@ -22,6 +22,6 @@ Here are some ideas to get you started:
 ![Hunlongyu's github stats](https://github-readme-stats.vercel.app/api?username=Hunlongyu&show_icons=true&count_private=true&line_height=40)
 
 <div style="height:170;width:495">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=prettykernel&count_private=true&show_icons=true&theme=buefy"/>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prettykernel"/>
+  <img  style="height:170;width:495" align="center" src="https://github-readme-stats.vercel.app/api/?username=prettykernel&count_private=true&show_icons=true&theme=buefy"/>
+  <img  style="height:170;width:495" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prettykernel"/>
 </div>
